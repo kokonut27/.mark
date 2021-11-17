@@ -1,5 +1,5 @@
 # mark.js
-> the mark javascript lib
+> the mark python lib
 
 Here's a picture of mark:
 
