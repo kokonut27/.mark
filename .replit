@@ -1,2 +1,2 @@
 language = "bash"
-run = "python app/markpy/main.py"
+run = "python main.py"
