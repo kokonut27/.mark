@@ -1,4 +1,4 @@
-# mark.js
+# mark.py
 > the mark python lib
 
 Here's a picture of mark:
